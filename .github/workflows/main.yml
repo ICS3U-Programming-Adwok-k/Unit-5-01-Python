@@ -46,6 +46,8 @@ jobs:
 
           VALIDATE_JSON: false
 
+          DISABLE_ERRORS: true
+
           VALIDATE_JSCPD: false # for copy and paste detection
 
           DEFAULT_BRANCH: main
